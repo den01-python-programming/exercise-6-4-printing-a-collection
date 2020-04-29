@@ -75,3 +75,5 @@ magneto
 mystique
 phoenix
 ```
+
+**NB:** You can add newlines in a `print` or `__str__` `return` statement with a `\n` character.
